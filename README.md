@@ -1,15 +1,18 @@
 # Zomato-Data-set
 
 Overview
+
 This project aims to analyze restaurant data from Zomato, a popular online food delivery platform, to gain insights into various aspects such as restaurant ratings, cuisines, locations, and user reviews. The dataset contains information about restaurants in different cities, their menus, average cost for two, user ratings, and more.
 
 Objectives
+
 Explore and visualize trends in restaurant ratings and popularity across different cities.
 Analyze the distribution of cuisines and their popularity among users.
 Investigate the relationship between restaurant attributes (such as cost, cuisine, location) and user ratings.
 Predict restaurant ratings based on features such as cuisine, cost, and location.
 
 Dataset
+
 The project utilizes a dataset obtained from Zomato, which includes the following features:
 
 1)Restaurant ID: Unique identifier for each restaurant
@@ -24,6 +27,7 @@ The project utilizes a dataset obtained from Zomato, which includes the followin
 10)Votes: Number of votes received by the restaurant
 
 Tools and Technologies
+
 1)Programming Language: Python
 2)Libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn
 3)Jupyter Notebook for exploratory data analysis (EDA) and model development Visualization tools like Matplotlib and Seaborn for data visualization
