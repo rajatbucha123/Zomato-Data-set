@@ -16,14 +16,23 @@ Dataset
 The project utilizes a dataset obtained from Zomato, which includes the following features:
 
 1)Restaurant ID: Unique identifier for each restaurant
+
 2)Restaurant Name: Name of the restaurant
+
 3)Country Code: Country code for the restaurant
+
 4)City: City where the restaurant is located
+
 5)Address: Address of the restaurant
+
 6)Cuisine Type: Type of cuisine offered by the restaurant
+
 7)Average Cost for Two: Average cost for two people dining at the restaurant
+
 8)Currency: Currency used for pricing
+
 9)Rating: Average user rating for the restaurant
+
 10)Votes: Number of votes received by the restaurant
 
 Tools and Technologies
