@@ -29,7 +29,9 @@ The project utilizes a dataset obtained from Zomato, which includes the followin
 Tools and Technologies
 
 1)Programming Language: Python
+
 2)Libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn
+
 3)Jupyter Notebook for exploratory data analysis (EDA) and model development Visualization tools like Matplotlib and Seaborn for data visualization
 
 Methodology
